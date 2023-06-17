@@ -1,8 +1,7 @@
 import React from "react";
 import './About.css';
 
-function About(props) {
-    console.log(props);
+function About() {
 
     // return <span>About this page: I built it because I love movies.</span>
 
